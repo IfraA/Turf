@@ -7,11 +7,11 @@ https://ifraa.github.io/Turf/
 
 
 Technologies Used:
-HTML
-CSS
-Javascript
-API 
-Bootstrap
-Firebase
-Adobe Illustrator
+HTML,
+CSS,
+Javascript,
+API,
+Bootstrap,
+Firebase,
+Adobe Illustrator,
 Sketch
